@@ -1,5 +1,5 @@
 import React from "react";
-import Menu from '../assets/menu.png.jpg'
+import Menu from '../assets/Menu.jpg'
 
 export default function App() {
   return (

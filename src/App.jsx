@@ -1,8 +1,7 @@
 import React from 'react'
-import Header from './/component/Header'
-import Main from './/component/Main'
-import Section from './/component/Section'
-import Footer from './/component/Footer'
+import Header from './component/Header'
+import Main from './component/Main'
+import Section from './component/Section'
 
 const App = () => {
   return (
@@ -10,7 +9,6 @@ const App = () => {
       <Header/>
       <Main/>
       <Section/>
-      <Footer/>
     </div>
   )
 }
