@@ -3,7 +3,7 @@ import Image1 from '../assets/image1.png'
 import Image2 from '../assets/image2.png'
 import Image3 from '../assets/image3.png'
 import Menu2 from '../assets/Menu2.jpg'
-import Logo1 from '../assets/logo1.png'
+import Logo1 from '../assets/Logo1.png'
 import Rasm1 from '../assets/rasm1.png'
 import Icons from '../assets/icons.png'
 
